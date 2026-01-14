@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://benard-adewole.github.io/sitemap.xml
