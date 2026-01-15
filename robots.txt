@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+# This tells Google not to show the sitemap in search results
+Noindex: /sitemap.xml
+
 Sitemap: https://benard-adewole.github.io/sitemap.xml
